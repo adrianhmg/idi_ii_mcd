@@ -5,6 +5,7 @@ Created on Sat Feb 13 11:54:42 2021
 
 @author: pi
 """
+import random
 import numpy as np
 import sympy as sp
 from sympy import solveset, symbols, Interval
